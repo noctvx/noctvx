@@ -5,7 +5,7 @@ Full Stack Developer building scalable and modern web applications.
 </p>
 
 <p align="center">
-  <img height="150" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"/>
+  <img height="200" width="20%" src="https://i.redd.it/p6p4mg8n5coa1.gif"/>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@ Full Stack Developer building scalable and modern web applications.
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noctvx&theme=tokyonight" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noctvx&theme=tokyonight" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noctvx&theme=tokyonight" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noctvx&theme=tokyonight" />
 
 </div>
 
